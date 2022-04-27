@@ -1,3 +1,3 @@
 # alivio
  
-[Site](https://royko7.github.io/alivio/)
+[Site](https://royko7.github.io/{repoName}/index.html)
