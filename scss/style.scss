@@ -1,1 +1,61 @@
- 
+$bandColor: #01996d;
+
+.navbar-brand {
+    width: 81px;
+    margin-left: 14.32%;
+    img {
+        width: 81px;
+        height: auto;
+        object-fit: cover;
+    }
+}
+.navbar-collapse {
+    justify-content: space-between !important;
+    ul {
+        display: flex;
+        flex: inherit;
+        justify-content: flex-start;
+        margin-left: 8%;
+        li {
+            margin: 0 0 0 3.75%;
+            .nav-link {
+                font-family: "Lato";
+                font-style: normal;
+                font-weight: 500;
+                font-size: 20px;
+                line-height: 24px;
+                /* identical to box height */
+                color: #292929 !important;
+            }
+            .nav-active {
+                font-family: "Lato";
+                font-style: normal;
+                font-weight: bold;
+                font-size: 20px;
+                line-height: 24px;
+                text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+            }
+        }
+    }
+}
+
+.right-buttons {
+    margin-right: 14.38%;
+
+    .btn-link {
+        font-family: "Lato";
+        font-style: normal;
+        font-weight: 400;
+        font-size: 20px;
+        line-height: 24px;
+        /* identical to box height */
+        color: #000000;
+    }
+
+    .btn-success {
+        background: $bandColor;
+        border: 1px solid $bandColor;
+        box-sizing: border-box;
+        border-radius: 4px;
+    }
+}
