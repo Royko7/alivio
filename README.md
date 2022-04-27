@@ -1,3 +1,3 @@
 # alivio
  
-[Site](https://royko7.github.io/alovio/index.html)
+[Site](https://royko7.github.io/alovio)
