@@ -1,1 +1,1 @@
-[link](https://royko7.github.io/alivio/alivio)
+[link](https://royko7.github.io/alivio)
